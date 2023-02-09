@@ -20,7 +20,7 @@ README with time, making it more professional and good-looking.
 - :keyboard: Software Engineering in general;
 - :globe_with_meridians: Web development (Full-Stack);
 - :space_invader: Game development;
-- :paintbrush: Pixel Art (outside game making).
+- :paintbrush: Pixel Art (as a hobby).
 
 4. Links
-- :bird: Pixel Art [twitter link](https://twitter.com/tex_pixel).
+- :bird: Pixel Art [twitter link](https://twitter.com/tex_pixel) (tweets in portuguese).
